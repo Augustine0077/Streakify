@@ -91,17 +91,60 @@ postman/streakify_api_collection.json
 ---
 ### Create User
 
+## Screenshots
+
+### Create User
 ![Create User](screenshots/create_user.png)
 
-### Create Habit
+### Get User
+![Get User](screenshots/get_user.png)
 
+### Delete User
+![Delete User](screenshots/delete_user.png)
+
+---
+
+### Create Habit
 ![Create Habit](screenshots/create_habit.png)
 
-### Fetch Streak
+### Get User Habits
+![Get User Habits](screenshots/get_user_habit.png)
 
+### Trying to Add Same Habit
+![Duplicate Habit](screenshots/trying_to_add same_habit.png)
+
+---
+
+### Log Multiple Days
+
+Day 1  
+![Log Day 1](screenshots/log_multiple_days_day 1.png)
+
+Day 2  
+![Log Day 2](screenshots/log_multiple_days_day 2.png)
+
+Day 3 (Fail)  
+![Log Day 3 Fail](screenshots/log_multiple_days_day 3(false).png)
+
+---
+
+### Fetch Streak
 ![Fetch Streak](screenshots/fetch_streak.png)
 
-### Dashboard
+---
 
-![Dashboard](screenshots/fetch_dashbord.png
-)
+### Dashboard
+![Dashboard](screenshots/fetch_dashbord.png)
+
+---
+
+### Negative Cases
+
+Duplicate Log  
+![Duplicate Log](screenshots/duplicate_log_false.png)
+
+Future Date Cannot Be Added  
+![Future Date](screenshots/future_date_log cannot_be_added.png)
+
+Non Existing User  
+![User Not Found](screenshots/non_existing_user_user_not_found.png)
