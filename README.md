@@ -104,4 +104,4 @@ postman/streakify_api_collection.json
 
 ![Fetch Streak](screenshots/fetch_streak.png)
 
-![Fetch Dashboard](screenshots/fetch_dashboard.png)
+![Fetch Dashboard](screenshots/fetch_dashbord.png)
