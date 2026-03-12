@@ -89,17 +89,6 @@ Located in:
 postman/streakify_api_collection.json
 
 ---
-
-## Screenshots
-
-## Screenshots
-
-## Screenshots
-
-## Screenshots
-
-## Screenshots
-
 ### Create User
 
 ![Create User](screenshots/create_user.png)
