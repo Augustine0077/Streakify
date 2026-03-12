@@ -7,11 +7,14 @@ import com.litmus7.Streakify.exception.ResourceNotFoundException;
 import com.litmus7.Streakify.repository.HabitLogRepository;
 import com.litmus7.Streakify.repository.HabitRepository;
 import com.litmus7.Streakify.repository.UserRepository;
+import lombok.Getter;
+import lombok.Setter;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
+
 
 @Service
 public class DashboardService {

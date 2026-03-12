@@ -13,6 +13,7 @@ import java.time.LocalDate;
         uniqueConstraints = {
                 @UniqueConstraint(columnNames = {"habit_id", "log_date"})
         }
+
 )
 @Getter
 @Setter
