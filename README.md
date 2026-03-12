@@ -98,10 +98,21 @@ postman/streakify_api_collection.json
 
 ## Screenshots
 
+## Screenshots
+
+### Create User
+
 ![Create User](screenshots/create_user.png)
+
+### Create Habit
 
 ![Create Habit](screenshots/create_habit.png)
 
+### Fetch Streak
+
 ![Fetch Streak](screenshots/fetch_streak.png)
 
-![Fetch Dashboard](screenshots/fetch_dashbord.png)
+### Dashboard
+
+![Dashboard](screenshots/fetch_dashbord.png
+)
