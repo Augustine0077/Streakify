@@ -144,7 +144,7 @@ Duplicate Log
 ![Duplicate Log](screenshots/duplicate_log_false.png)
 
 Future Date Cannot Be Added  
-![Future Date](screenshots/future_date_log_cannot_be_added)
+![Future Date](screenshots/future_date_log_cannot_be_added.png)
 
 Non Existing User  
 ![User Not Found](screenshots/non_existing_user_user_not_found.png)
