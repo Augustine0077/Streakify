@@ -89,7 +89,7 @@ Located in:
 postman/streakify_api_collection.json
 
 ---
-### Create User
+
 
 ## Screenshots
 
@@ -123,7 +123,7 @@ Day 1
 Day 2  
 ![Log Day 2](screenshots/log_multiple_days_day_2.png)
 
-Day 3 (Fail)  
+Day 3 (Faild)  
 ![Log Day 3 Fail](screenshots/log_multiple_days_day_3_fasle_.png)
 
 ---
@@ -144,7 +144,7 @@ Duplicate Log
 ![Duplicate Log](screenshots/duplicate_log_false.png)
 
 Future Date Cannot Be Added  
-![Future Date](screenshots/future_date_log cannot_be_added.png)
+![Future Date](screenshots/future_date_log_cannot_be_added.png)
 
 Non Existing User  
 ![User Not Found](screenshots/non_existing_user_user_not_found.png)
