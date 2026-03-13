@@ -118,13 +118,13 @@ postman/streakify_api_collection.json
 ### Log Multiple Days
 
 Day 1  
-![Log Day 1](screenshots/log_multiple_days_day 1.png)
+![Log Day 1](screenshots/log_multiple_days_day_1.png)
 
 Day 2  
-![Log Day 2](screenshots/log_multiple_days_day 2.png)
+![Log Day 2](screenshots/log_multiple_days_day_2.png)
 
 Day 3 (Fail)  
-![Log Day 3 Fail](screenshots/log_multiple_days_day 3(false).png)
+![Log Day 3 Fail](screenshots/log_multiple_days_day_3_fasle_.png)
 
 ---
 
