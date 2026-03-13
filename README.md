@@ -111,7 +111,7 @@ postman/streakify_api_collection.json
 ![Get User Habits](screenshots/get_user_habit.png)
 
 ### Trying to Add Same Habit
-![Duplicate Habit](screenshots/trying_to_add same_habit.png)
+![Duplicate Habit](screenshots/trying_to_add%20same_habit.png)
 
 ---
 
